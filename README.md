@@ -41,8 +41,8 @@ This repo will feature my coursework and personal projects, including:
 
 ## Contact & Links
 
-- **Résumé:** []  
-- **LinkedIn:** [www.linkedin.com/in/brodie-s-9a6366262]  
+- **LinkedIn:** [www.linkedin.com/in/brodie-s-9a6366262]
+- **Github:** [https://github.com/bksal04]
 - **Email:** [brodiesaluja7@gmail.com]
 
 ---
