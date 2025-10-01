@@ -1,4 +1,4 @@
-# 👋 About Me
+# About Me
 
 Hello! I’m a 21-year-old IT student specialising in **Networks** and **Cybersecurity Systems**.  
 This repository is my personal portfolio where I share projects, skills, and progress as I advance in my studies and career.
@@ -7,18 +7,18 @@ I plan to update this regularly to reflect new skills, projects, and experiences
 
 ---
 
-## 🎯 Skills & Technologies
+## Skills & Technologies
 
 Here are some of the skills and tools I’ve developed so far:
 
-**💻 Programming Languages:**  
+**Programming Languages:**  
 - Java, C++, R, PHP
 
-**🌐 Networking:**  
+**Networking:**  
 - IPv4, IPv6, VLANs, Routing & Switching fundamentals  
 - Tools: Wireshark, Packet Tracer
 
-**🔒 Cybersecurity:**  
+**Cybersecurity:**  
 - John the Ripper, Basic exploit analysis, dictionary attacks  
 - Ethical hacking concepts and security fundamentals  
 
@@ -27,7 +27,7 @@ Here are some of the skills and tools I’ve developed so far:
 
 ---
 
-## 📂 Projects & Coursework Highlights
+## Projects & Coursework Highlights
 
 This repo will feature my coursework and personal projects, including:  
 - Network simulation exercises  
@@ -39,7 +39,7 @@ This repo will feature my coursework and personal projects, including:
 
 ---
 
-## 📫 Contact & Links
+## Contact & Links
 
 - **Résumé:** []  
 - **LinkedIn:** [www.linkedin.com/in/brodie-s-9a6366262]  
@@ -47,11 +47,11 @@ This repo will feature my coursework and personal projects, including:
 
 ---
 
-## 🌱 Interests
+## Interests
 
-- 💡 Tech enthusiast  
-- 🎮 Retro gaming purist  
-- 🏕 Certified camper  
-- 🔧 Soldering small electronic repairs  
+- Tech enthusiast  
+- Retro gaming purist  
+- Certified camper  
+- Soldering small electronic repairs  
 
 ---
